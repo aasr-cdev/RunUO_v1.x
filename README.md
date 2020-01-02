@@ -9,20 +9,13 @@ An Ultima Online™ Server Emulator: Last Official Release
 
 ## Emulators Included
 1. RunUO_v1.x
-> formally known as *RunUO_v1.0 Final*, this project was the last official release of RunUO_v1.x, and is currently the most stable revision of the offical release available created by the RunUO Software Team.
+> formally known as *RunUO_v1.0 Final*, this project was the last official release of RunUO_v1.x, and is currently the most stable revision of *RunUO_v1.0* available.
 
 2. RunUO_v2.x
-> formally known as *RunUO_v2.3r987*, this project was the last official release of RunUO_v2.x, and is currently the most stable revision of the official release available.
+> formally known as *RunUO_v2.3r987*, this project was the last official release of RunUO_v2.x, and is currently the most stable revision of *RunUO_v2.0* available.
 
 3. RunUO_vCE
-> formally known as *RunUO_v2.7*, this project was built using the release of RunUO_v2.3r987 as its foundation, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
+> formally known as *RunUO_v2.7*, this project was built using the release of RunUO_v2.3r987 as its foundation, and has been modified by RunUO community developers; this is the most stable rendition of the official RunUO emulator.
 
 4. ServUO_pub
 > formally known as *RunUO_v2.6*, this project was forked and overhauled to be compatible with the latest that Ultima Online™ has to offer. With ServUO_pub you can enjoy using the newest game client with the latest expansion.
-
-## Which One To Use?
-> It depends on what type of Ultima Online™ Server you are trying to create:
-
->If your aim is to stick with emulating the original game, then you will want to use an emulator that is compatible with the client version and game expansion that you will be trying to recreate. However if you are like me and want to use an emulator and the Ultima Online™ game as a foundation to create a spin-off, then it really does not matter which emulator release you use; it is a matter of preference.
-
-> With these repositories, the Ultima Online™ game, and determination you can recreate and customize just about any role-playing game (RPG) and massively multiplayer online role-playing game (MMORPG) on the market!
