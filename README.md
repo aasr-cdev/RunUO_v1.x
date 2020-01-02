@@ -1,8 +1,28 @@
 # RunUO_v1.x<img align="right" width="100" height="100" src="https://i.postimg.cc/RZMSqK5x/logo-02.png/100/100">
 An Ultima Online™ Server Emulator: Last Official Release 
 
-## Project Background
-> The restructuring of both the code and the directories within this project will make this emulator fork seem like it has been modified from the original source; I can assure you that *all of the code contained herein has been left unmodified*. The changes which have been made to this repository aim to add uniformity between all major releases of RunUO. My end-goal for all of this is to be able to cross-reference the evolution of code changes between the different versions of RunUO. This will ultimately make converting source code and third-party scripts from one emulation server version to another a lot less tedious of a job than it had previously been.
+## Project Information
+> This repository aims to add uniformity within the source code and directory structure between all major releases of the RunUO Ultima Online™ Server Emulator as well as any relevant forks of the project which may become popular.
 
-## Why No Microsoft Visual Studio Solution and Project Files?
-> I have refrained from adding the Microsoft Visual Studio project and solution files to the repositories because I really did not want to confuse anyone with the way they are set up. If you would like the Microsoft Visual Studio source that corresponds to this repository, then you can email me and request it: aasr-cdev@protonmail.com
+## Project Motivations
+> This project hit a lot of nerves with people; stating that it was a waste of time and nobody would benefit from it. The truth is that you will not find a better cross-referencing platform from which you can clearly see the evolution of code changes between the RunUO Ultima Online™ Server Emulator releases. What this does is ultimately make converting source code and third-party scripts from one emulation server version to another a lot less tedious and time consuming of a job than it had previously been; when it's all said and done, this project was far from a waste of time.
+
+## Emulators Included
+1. RunUO_v1.x
+> formally known as *RunUO_v1.0 Final*, this project was the last official release of RunUO_v1.x, and is currently the most stable revision of the offical release available created by the RunUO Software Team.
+
+2. RunUO_v2.x
+> formally known as *RunUO_v2.3r987*, this project was the last official release of RunUO_v2.x, and is currently the most stable revision of the official release available.
+
+3. RunUO_vCE
+> formally known as *RunUO_v2.7*, this project was built using the release of RunUO_v2.3r987 as its foundation, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
+
+4. ServUO_pub
+> formally known as *RunUO_v2.6*, this project was forked and overhauled to be compatible with the latest that Ultima Online™ has to offer. With ServUO_pub you can enjoy using the newest game client with the latest expansion.
+
+## Which One To Use?
+> It depends on what type of Ultima Online™ Server you are trying to create:
+
+>If your aim is to stick with emulating the original game, then you will want to use an emulator that is compatible with the client version and game expansion that you will be trying to recreate. However if you are like me and want to use an emulator and the Ultima Online™ game as a foundation to create a spin-off, then it really does not matter which emulator release you use; it is a matter of preference.
+
+> With these repositories, the Ultima Online™ game, and determination you can recreate and customize just about any role-playing game (RPG) and massively multiplayer online role-playing game (MMORPG) on the market!
